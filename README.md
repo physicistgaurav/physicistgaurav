@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @physicistgaurav
 - 👀 I’m interested in Web Design, Mobile Application Development, GUI apps development in Python and machine learning
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning Flutter and MERN stack 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
