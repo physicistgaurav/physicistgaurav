@@ -1,9 +1,9 @@
 # 💫 About Me:
 - 👋 Hi, I’m @physicistgaurav
 - 👀 I’m interested in Web Design, Mobile Application Development, GUI apps development in Python and machine learning
-- 🌱 I’m currently learning Flutter and MERN stack 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 🌱 I’m currently learning Django, opencv and ReactJs.
+- 💞️ I’m looking to collaborate on Flutter projects.
+- 📫 I love listening to music and coding.
 
 <!---
 physicistgaurav/physicistgaurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
