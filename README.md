@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m @physicistgaurav
 - 👀 I’m interested in Web Design, Mobile Application Development, GUI apps development in Python and machine learning
-- 🌱 I’m currently learning React-Native.
+- 🌱 I’m currently learning Node.Js and Express.Js.
 - 💞️ I’m looking to collaborate on Mobile Applicaion Projects.
 - 📫 I love listening to music and coding.
 
