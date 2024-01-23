@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [www.gauravrizal.com.np](www.gauravrizal.com.np)
 
-- 📝 I regularly write articles on [www.bloggaurav.com.np](www.bloggaurav.com.np)
+- 📝 I write articles on [Medium](https://medium.com/@gauravrijal03)
 
 - 💬 Ask me about **React-Native and React.Js**
 
