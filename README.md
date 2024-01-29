@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **AWS**
 
-- 👨‍💻 All of my projects are available at [www.gauravrizal.com.np](www.gauravrizal.com.np)
+- 👨‍💻 All of my projects are available at [www.gauravrizal.com.np](https://www.gauravrizal.com.np)
 
 - 📝 I write articles on [Medium](https://medium.com/@gauravrijal03)
 
