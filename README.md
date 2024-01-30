@@ -11,15 +11,9 @@
 
 - 🌱 I’m currently learning **Rust, Go, Docker and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Mobile and Web Application.**
-
-- 🤝 I’m looking for help with **AWS**
-
 - 👨‍💻 All of my projects are available at [www.gauravrizal.com.np](https://www.gauravrizal.com.np)
 
 - 📝 I write articles on [Medium](https://medium.com/@gauravrijal03)
-
-- 💬 Ask me about **React-Native and React.Js**
 
 - 📫 How to reach me **gauravrijal03@gmail.com**
 
