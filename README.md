@@ -11,13 +11,11 @@
 
 - 🌱 I’m currently learning **Docker, Machine Learning , OpenCV, LLM and NLP**
 
-- 👨‍💻 All of my projects are available at [www.gauravrizal.com.np](https://www.gauravrizal.com.np)
-
 - 📝 I rarely write articles on [Medium](https://medium.com/@gauravrijal03)
 
 - 📫 How to reach me **gauravrijal03@gmail.com**
 
-- 📄 Know about me in [www.gauravrizal.com.np/resume](www.gauravrizal.com.np/resume)
+- 📄 Know about me in [www.gauravrizal.com.np/resume](www.gauravrizal.com.np)
 
 - ⚡ Fun fact **I am cinephile, a metal head and sometimes I write poem**
 
