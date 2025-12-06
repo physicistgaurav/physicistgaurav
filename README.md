@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Rizal</h1>
-<h3 align="center">A passionate fullstack developer from Nepal.I speak JavaScript primarily. Other languages I'm familiar with are dart and python..</h3>
+<h3 align="center">Full-stack developer and aspiring researcher passionate about AI/ML and data science. I build scalable applications with Python, TensorFlow, PyTorch, OpenCV, and modern React-based technologies, integrating intelligent solutions into real-world projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=physicistgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="physicistgaurav" /> </p>
 
