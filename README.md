@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Docker and Devops**
 
-- 👯 I’m looking to collaborate on ** OpenCV projects **
+- 👯 I’m looking to collaborate on **OpenCV projects**
 
 - 📫 How to reach me **gauravrijal03@gmail.com**
 
