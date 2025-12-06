@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gauravrijal03@gmail.com**
 
-- 📄 Know about me in [www.gauravrizal.com.np/resume](www.gauravrizal.com.np)
+- 📄 Know about me in [www.gauravrizal.com.np](www.gauravrizal.com.np)
 
 - 📝 I rarely write articles on [Medium](https://medium.com/@gauravrijal03)
 
