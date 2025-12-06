@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Rizal</h1>
-<h3 align="center">Full-stack developer and aspiring researcher passionate about AI/ML and data science. I build scalable applications with Python, TensorFlow, PyTorch, OpenCV, and modern React-based technologies, integrating intelligent solutions into real-world projects.</h3>
+<h3 align="center">a full-stack developer passionate about Web Development, Mobile App Development, and AI/ML.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=physicistgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="physicistgaurav" /> </p>
 
@@ -9,13 +9,15 @@
 
 - 🔭 I’m currently working on **WebNep for designing end-to-end Grocery management system**
 
-- 🌱 I’m currently learning **Docker, Machine Learning , OpenCV, LLM and NLP**
+- 🌱 I’m currently learning **Docker and Devops**
 
-- 📝 I rarely write articles on [Medium](https://medium.com/@gauravrijal03)
+- 👯 I’m looking to collaborate on ** OpenCV projects **
 
 - 📫 How to reach me **gauravrijal03@gmail.com**
 
 - 📄 Know about me in [www.gauravrizal.com.np/resume](www.gauravrizal.com.np)
+
+- - 📝 I rarely write articles on [Medium](https://medium.com/@gauravrijal03)
 
 - ⚡ Fun fact **I am cinephile, a metal head and sometimes I write poem**
 
