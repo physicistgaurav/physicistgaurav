@@ -17,7 +17,7 @@
 
 - 📄 Know about me in [www.gauravrizal.com.np/resume](www.gauravrizal.com.np)
 
-- - 📝 I rarely write articles on [Medium](https://medium.com/@gauravrijal03)
+- 📝 I rarely write articles on [Medium](https://medium.com/@gauravrijal03)
 
 - ⚡ Fun fact **I am cinephile, a metal head and sometimes I write poem**
 
