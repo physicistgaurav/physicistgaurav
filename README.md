@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/physicistgaurav" target="blank"><img src="https://img.shields.io/twitter/follow/physicistgaurav?logo=twitter&style=for-the-badge" alt="physicistgaurav" /></a> </p>
 
-- 🔭 I’m currently working on **Backend with Node.Js and Express.Js**
+- 🔭 I’m currently working on **WebNep for designing end-to-end Grocery management system**
 
-- 🌱 I’m currently learning **Rust, Go, Docker and Machine Learning**
+- 🌱 I’m currently learning **Docker, Machine Learning , OpenCV, LLM and NLP**
 
 - 👨‍💻 All of my projects are available at [www.gauravrizal.com.np](https://www.gauravrizal.com.np)
 
-- 📝 I write articles on [Medium](https://medium.com/@gauravrijal03)
+- 📝 I rarely write articles on [Medium](https://medium.com/@gauravrijal03)
 
 - 📫 How to reach me **gauravrijal03@gmail.com**
 
-- 📄 Know about my experiences [www.gauravrizal.com.np/resume](www.gauravrizal.com.np/resume)
+- 📄 Know about me in [www.gauravrizal.com.np/resume](www.gauravrizal.com.np/resume)
 
 - ⚡ Fun fact **I am cinephile, a metal head and sometimes I write poem**
 
